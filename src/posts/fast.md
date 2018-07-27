@@ -1,5 +1,5 @@
 ---
-title: FAST (Fairfield and Suisun Transit)
+title: Fairfield and Suisun Transit (FAST)
 image: /assets/FAST.png
 sample: '06'
 link: 'http://fasttransit.org'
