@@ -1,6 +1,6 @@
 ---
 title: UC Davis Health - Magazine
-image: /assets/UCDHealth.png
+image: /assets/ucdhealth_eg.png
 sample: 08
 link: 'https://www.ucdmc.ucdavis.edu/health-magazine/'
 date: '2018-07-25'
