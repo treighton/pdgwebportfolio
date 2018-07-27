@@ -1,7 +1,7 @@
 ---
 title: American Grown Flowers
 image: /assets/AmericanGrown.png
-sample: '1'
+sample: '01'
 link: 'http://americangrownflowers.org'
 date: '2018-07-25'
 ---

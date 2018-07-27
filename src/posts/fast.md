@@ -1,7 +1,7 @@
 ---
-title: FAST (Fairfield and Suisun Transit)
+title: Fairfield and Suisun Transit (FAST)
 image: /assets/FAST.png
-sample: '5'
+sample: '06'
 link: 'http://fasttransit.org'
 date: '2018-07-25'
 ---
