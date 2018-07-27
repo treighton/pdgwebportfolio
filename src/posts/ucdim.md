@@ -1,7 +1,7 @@
 ---
-title: 'UC Davis Integrated Medicine'
+title: UC Davis Integrated Medicine
 image: /assets/UCDIM.png
-sample: 80
+sample: '8'
 link: 'https://ucdintegrativemedicine.com'
 date: '2018-07-25'
 ---
