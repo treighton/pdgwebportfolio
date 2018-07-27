@@ -1,7 +1,7 @@
 ---
 title: California Rice Commission
 image: /assets/CRC.png
-sample: '4'
+sample: '04'
 link: 'http://calrice.org'
 date: '2018-07-25'
 ---
