@@ -1,5 +1,5 @@
 ---
-title: California Rice Commission
+title: California Rice Commission - Main Industry Website
 image: /assets/CRC.png
 sample: '04'
 link: 'http://calrice.org'
