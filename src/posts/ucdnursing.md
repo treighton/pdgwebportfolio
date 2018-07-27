@@ -1,5 +1,5 @@
 ---
-title: UC Davis Betty Irene Moore School of Nursing
+title: UC Davis Health - Betty Irene Moore School of Nursing
 image: /assets/UCDNursing.png
 sample: 09
 link: 'http://ucdmc.ucdavis.edu/nursing'
