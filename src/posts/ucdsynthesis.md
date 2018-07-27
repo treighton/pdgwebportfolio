@@ -1,7 +1,7 @@
 ---
 title: ' UC Davis Health - Comprehensive Cancer Center'
 image: /assets/UCDSynthesis.png
-sample: '10'
+sample: '11'
 link: 'http://www.ucdmc.ucdavis.edu/synthesis'
 date: '2018-07-25'
 ---
