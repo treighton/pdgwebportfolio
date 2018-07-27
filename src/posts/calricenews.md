@@ -1,5 +1,5 @@
 ---
-title: California Rice News
+title: California Rice Commission - Rice News Industry Website
 image: /assets/CalRiceNews.png
 sample: '03'
 link: 'http://www.calricenews.org/'
