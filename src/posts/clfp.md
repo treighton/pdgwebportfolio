@@ -1,7 +1,7 @@
 ---
 title: California Food Producers
 image: /assets/CalFoodProducers.png
-sample: '2'
+sample: '02'
 link: 'http://clfp.com'
 date: '2018-07-25'
 ---
