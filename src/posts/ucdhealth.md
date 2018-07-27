@@ -1,7 +1,7 @@
 ---
-title: 'UC Davis Health'
+title: UC Davis Health
 image: /assets/UCDHealth.png
-sample: 70
+sample: '7'
 link: 'http://www.ucdmc.ucdavis.edu'
 date: '2018-07-25'
 ---
