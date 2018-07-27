@@ -1,7 +1,7 @@
 ---
 title: Sacramento Valley
 image: /assets/SacValley.png
-sample: '6'
+sample: '07'
 link: 'http://sacramentovalley.org'
 date: '2018-07-25'
 ---
