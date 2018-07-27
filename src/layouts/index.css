@@ -958,7 +958,7 @@ PORTFOLIO
 }
 .sample-links img {
   width: 100px;
-  border: 1px solid #998c7e;
+  /* border: 1px solid #998c7e; */
 }
 .sample-links li {
   font-size: 12px;
