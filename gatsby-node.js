@@ -22,8 +22,9 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
   return new Promise((resolve, reject) => {
     graphql(`
       {
-        allMarkdownRemark(sort: { order: ASC, fields: [frontmatter___date] }) {
-          
+        allMarkdownRemark(
+          sort: { order: ASC, fields: [frontmatter___sample] }
+        ) {
           edges {
             node {
               fields {

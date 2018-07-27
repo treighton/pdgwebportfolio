@@ -72,20 +72,20 @@ export const query = graphql`
         title
       }
     }
-    allMarkdownRemark(sort: {order: ASC, fields: [frontmatter___date]}) {
-    edges {
-      node {
-        id
-                 frontmatter {
-                   title
-                   sample
-                   image
-                 }
-        fields {
-          slug
+    allMarkdownRemark(sort: { order: ASC, fields: [frontmatter___sample] }) {
+      edges {
+        node {
+          id
+          frontmatter {
+            title
+            sample
+            image
+          }
+          fields {
+            slug
+          }
         }
       }
     }
-  }
   }
 `
