@@ -1,5 +1,5 @@
 ---
-title: UC Davis Integrated Medicine
+title: UC Davis Health Integrative Medicine Program
 image: /assets/UCDIM.png
 sample: 08
 link: 'https://ucdintegrativemedicine.com'
