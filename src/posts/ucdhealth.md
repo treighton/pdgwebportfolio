@@ -1,7 +1,7 @@
 ---
 title: UC Davis Health
 image: /assets/UCDHealth.png
-sample: '07'
+sample: 08
 link: 'http://www.ucdmc.ucdavis.edu'
 date: '2018-07-25'
 ---
