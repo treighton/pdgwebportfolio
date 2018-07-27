@@ -1,7 +1,7 @@
 ---
 title: UC Davis Health Integrative Medicine Program
 image: /assets/UCDIM.png
-sample: 08
+sample: 09
 link: 'https://ucdintegrativemedicine.com'
 date: '2018-07-25'
 ---
