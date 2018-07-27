@@ -1,7 +1,7 @@
 ---
 title: California Waterfix
 image: /assets/Waterfix.png
-sample: '11'
+sample: '05'
 link: 'https://www.californiawaterfix.com/'
 date: '2018-07-25'
 ---
