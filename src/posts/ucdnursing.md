@@ -1,7 +1,7 @@
 ---
-title: 'UC Davis Betty Irene Moore School of Nursing'
+title: UC Davis Betty Irene Moore School of Nursing
 image: /assets/UCDNursing.png
-sample: 90
+sample: '9'
 link: 'http://ucdmc.ucdavis.edu/nursing'
 date: '2018-07-25'
 ---
